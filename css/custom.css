@@ -43,6 +43,10 @@ a {
 a:hover {
   color: #FFBFC1;
 }
+.scroll-top {
+  text-align: center;
+  font-size: 12px;
+}
 .button-gallery, input[type="submit"], input[type="reset"], input[type="button"] {
   background: #FF5A5F;
   border: none;
@@ -277,6 +281,14 @@ a:hover {
   font-size: 2.2rem;
   letter-spacing: 1.27px;
 }
+.cta_title {
+  padding: 2rem 0;
+  bottom: 0;
+  left: 0;
+  font-weight: 700;
+  color: #4E4E4E;
+  background-color: white;
+}
 .location_address {
   font-size: 1.5rem;
 }
@@ -301,7 +313,7 @@ a:hover {
   width: 25%;
 }
 .location_ammenities p {
-  font-size: 1.6rem;
+  font-size: 15px;
   letter-spacing: 1px;
 }
 .map_container {
