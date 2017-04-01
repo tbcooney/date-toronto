@@ -514,6 +514,9 @@ a:hover {
   .hero_image {
     height: 100%;
   }
+  .white {
+    color: #4E4E4E !important;
+  }
 }
 
 /* Bigger than 1000 */
