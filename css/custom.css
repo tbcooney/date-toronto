@@ -45,7 +45,11 @@ a:hover {
 }
 .scroll-top {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
+}
+
+.fb_iframe_widget span {
+  display: block !important;
 }
 .button-gallery, input[type="submit"], input[type="reset"], input[type="button"] {
   background: #FF5A5F;
@@ -354,6 +358,9 @@ a:hover {
 .review_section {
   margin-bottom: 2rem;
   border-bottom: 1px solid #d7d4c4;
+}
+.review_photo {
+  margin: 2rem 0;
 }
 .yelp-review {
   margin: 1rem 0;
