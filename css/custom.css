@@ -57,20 +57,20 @@ a:hover {
   color: #FFFFFF !important;
   padding:1.2rem 2rem;
   margin:1rem 0;
-  border: 0 none; 
-  border-radius:4px; 
-  letter-spacing:.03em; 
-  cursor: pointer; 
-  display: inline-block; 
-  font-size:14px; 
-  line-height: 32px; 
-  text-align: center; 
-  text-transform: none; 
-  text-decoration: none; 
-  vertical-align: top; 
-  white-space: nowrap; 
-  height: auto; 
-  width: 100%; 
+  border: 0 none;
+  border-radius:4px;
+  letter-spacing:.03em;
+  cursor: pointer;
+  display: inline-block;
+  font-size:14px;
+  line-height: 32px;
+  text-align: center;
+  text-transform: none;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  height: auto;
+  width: 100%;
   transition: all 0.23s ease-in-out 0s;
 }
 .button-outline {
@@ -101,7 +101,7 @@ a:hover {
   background-color:#FF8689;
   color: #FFFFFF;
 }
-.divider { 
+.divider {
   border-top: 1px solid #DCE0E0;
   padding: 2rem;
 }
@@ -435,7 +435,7 @@ a:hover {
 #mc_embed_signup .button {clear:both; background-color: #FF5A5F; border: 0 none; border-radius:4px; letter-spacing:.03em; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:14px; line-height: 32px; text-align: center; text-transform: none; text-decoration: none; vertical-align: top; white-space: nowrap; height: auto; width: auto; transition: all 0.23s ease-in-out 0s;}
 #mc_embed_signup .button:hover {background-color:#FF8689;}
 #mc_embed_signup .small-meta {font-size: 11px;}
-#mc_embed_signup .nowrap {white-space:nowrap;}     
+#mc_embed_signup .nowrap {white-space:nowrap;}
 #mc_embed_signup .clear {clear:none; display:inline;}
 
 #mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
@@ -497,7 +497,7 @@ a:hover {
     padding: 6rem 0;
   }
   .hero {
-    padding: 16rem 0 14rem;
+    padding: 5rem 0 5rem;
   }
   .reviewProp {
     margin: 0 20%;
@@ -552,7 +552,7 @@ a:hover {
 /* Bigger than 1000 */
 @media (min-width: 1000px) {
   .hero {
-    padding: 10rem 0;
+    padding: 5rem 0;
   }
   .reviewProp {
     margin: 0 30%;
