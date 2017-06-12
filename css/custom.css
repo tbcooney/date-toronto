@@ -161,13 +161,39 @@ a:hover {
   font-size: 14px;
   letter-spacing: 0.5px;
 }
+.announcement {
+  line-height: 12px;
+  margin: 0 0 55px;
+  padding: 3px 4px;
+  border-radius: 15px;
+  display: inline-flex;
+  -ms-flex-align: center;
+  align-items: center;
+  width: auto;
+  font-size: 14px;
+  letter-spacing: 0.6px;
+  font-weight: 500;
+  color: #FFF;
+  text-decoration: none;
+  background: rgba(255,90,95,1);
+}
+.announcement:hover {
+  color: #FFF;
+  background: rgba(255,90,95,0.8);
+}
 .new-pill {
-  color: #FFFFFF;
-  padding: 4px 6px;
+  padding: 0 6px;
   font-size: 12px;
+  line-height: 16px;
   font-weight: 600;
-  background: #D1D1D1;
-  border-radius: 4px;
+  color: #FF5A5F;
+  background: #FFF;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+.message {
+  flex: 1;
+  margin: 0 6px;
 }
 
 /* Header & Navigation
