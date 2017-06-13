@@ -111,7 +111,7 @@ a:hover {
 }
 .section {
   padding: 8rem 0 4rem;
-  color: #4E4E4E;
+  color: #333333;
 }
 .heroProp {
   margin-bottom: 5rem;
@@ -162,7 +162,7 @@ a:hover {
   letter-spacing: 0.5px;
 }
 .announcement {
-  line-height: 12px;
+  line-height: 16px;
   margin: 0 0 55px;
   padding: 3px 4px;
   border-radius: 15px;
