@@ -281,6 +281,33 @@ a:hover {
   display: block;
   margin: 0;
 }
+.reviewListing li {
+  display: block;
+  margin: 3rem 0;
+  list-style: none;
+  padding: 2px 0 25px 0;
+  border-bottom: 1px solid rgba(0,0,0,.05)!important;
+}
+.reviewListing li a {
+  margin: 0px;
+  display: block;
+  color: #333333;
+  width: 100%;
+  height: 100%;
+}
+.reviewListing span {
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: rgba(0,0,0,.44);
+}
+.reviewListing img {
+  margin: 1rem 0;
+}
+.reviewLink {
+  color: #FF5A5F !important;
+}
 .review {
   padding: 4rem 0 4rem;
 }
