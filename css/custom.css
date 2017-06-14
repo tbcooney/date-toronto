@@ -217,6 +217,7 @@ a:hover {
   list-style: none;
   display: block;
   float: right;
+  margin: 0 1rem;
 }
 .navLinks a {
   color: #4E4E4E;
